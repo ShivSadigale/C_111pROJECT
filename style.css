@@ -1,0 +1,28 @@
+.heading {
+    font-size:23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 15px, 15px, 15px,;
+    background-color: #e3b063;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: #5e3800;
+    line-height: 30px;
+    text-align: center;
+}
+
+canvas {
+    border: 25px solid gold;
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px gold;
+}
+
+body {
+background-color: #8d5400;
+font-family: 'Yeon Sung', cursive;
+}
